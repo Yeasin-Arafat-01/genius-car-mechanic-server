@@ -56,6 +56,7 @@ async function run() {
     }
     finally {
         // await client.close()
+        // something
     }
 }
 run().catch(console.dir);
